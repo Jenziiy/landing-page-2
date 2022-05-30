@@ -1,2 +1,2 @@
-# landing-page-2
-landing page try 2
+# landing-page
+project landing page
